@@ -1,0 +1,4 @@
+Best model: svc
+Validation accuracy: 0.5440
+
+Test Accuracy: 0.5487
