@@ -97,7 +97,7 @@ A command-line script (`predict_churn.py`) allows users to input customer detail
 
 ### 🪄 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/customer-churn-prediction.git
+git clone https://github.com/omtawde09/CODSOFT/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 ## 🧰 2. Create a Virtual Environment
