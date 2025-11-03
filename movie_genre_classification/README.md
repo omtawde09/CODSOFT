@@ -48,7 +48,7 @@ Example rows:
 ### Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/movie_genre_classification.git
+git clone https://github.com/omtawde09/CODSOFT/movie_genre_classification.git
 cd movie_genre_classification
 
 Create and activate a virtual environment
